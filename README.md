@@ -2,16 +2,7 @@
 
 ## About
 
-Many metrics exist to attempt to determine the relative popularity of different programming languages, including (for example):
-
-- Developer opinion surveys
-- Prevalence of languages on GitHub / similar sites
-- Prevalence of languages mentioned in job listings
-  etc.
-
-These metrics each have their own inherent merits and flaws, of course. 
-
-Here, we aim to get an idea of the prevalence of different programming languages in the real world. That is to say, we aim to discover the relative popularity of different programming languages *in practice*, as would be seen in different apps that are actually in use on consumer hardware.
+The aim is to get an idea of the prevalence of different programming languages in the real world. That is to say, we aim to discover the relative popularity of different programming languages *in practice*, as would be seen in different apps that are actually in use on consumer hardware.
 
 ## Methodology
 
